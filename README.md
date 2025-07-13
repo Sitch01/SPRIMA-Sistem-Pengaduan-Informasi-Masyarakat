@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Deskripsi
-SPRIMA adalah aplikasi berbasis desktop/web untuk memudahkan **masyarakat** dalam menyampaikan pengaduan atau permintaan informasi, serta membantu **petugas/admin** dalam menerima, meninjau, dan menindaklanjuti laporan tersebut secara efisien.
+SPRIMA adalah aplikasi berbasis desktop untuk memudahkan **masyarakat** dalam menyampaikan pengaduan atau permintaan informasi, serta membantu **petugas/admin** dalam menerima, meninjau, dan menindaklanjuti laporan tersebut secara efisien.
 
 ---
 
